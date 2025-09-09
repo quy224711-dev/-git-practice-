@@ -1,2 +1,1 @@
-#Git Practice
-Nguyen Phu Quy 224711
+Đây là README từ nhánh main.
